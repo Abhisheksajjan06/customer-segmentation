@@ -75,5 +75,4 @@ AI and Data Science Student
 📄 License
 This project is available for educational and portfolio purposes.
 
-
-
+<img width="1121" height="625" alt="customers segmantion" src="https://github.com/user-attachments/assets/915ace95-8251-4526-b318-f83bd73d6438" />
